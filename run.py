@@ -8,8 +8,8 @@ import numpy as np
 from datetime import datetime, timedelta, timezone
 
 # ── Environment variables (သင်ကိုယ်တိုင် ပြန်လည် အစားထိုးရန်) ─────────────────
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8915737207:AAFymbnH_1Ga39WrcoRmfhca73hGhwF4kzY")
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN","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")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8688283719:AAFjHc4_ori6qobYd2HTddXq8lANfxbxJ8k")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN","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")
 REPO_OWNER = os.getenv("REPO_OWNER", "kowaznimey")
 REPO_NAME = os.getenv("REPO_NAME", "hs")
 ADMIN_ID = os.getenv("ADMIN_ID", "5671920054") # သင့်ရဲ့ ID ကို ဒီမှာ ထည့်ပါ
